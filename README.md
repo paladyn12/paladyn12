@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&section=header&text=Paladyn12's%20GITHUB&fontSize=50&fontAlign=68&fontAlignY=36)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2E2E2E&repeat=false&width=2000&height=100&lines=Back-End+Developer%2C+who+is+continuously+learning+and+growing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=10000&pause=1000&color=2E2E2E&width=2000&height=100&lines=Back-End+Developer%2C+who+is+continuously+learning+and+growing.)](https://git.io/typing-svg)
 
 <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
