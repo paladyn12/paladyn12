@@ -20,9 +20,6 @@
     <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
   <div style="text-align: left;">
-    <a href="https://www.notion.so/1acbe93dcc65807ba891ce3604c39e1d">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-    </a>
     <a href="https://paladyn12.github.io" style="margin-left: 10px;">
       <img src="https://img.shields.io/badge/Github Pages-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub.io Portfolio">
     </a>
